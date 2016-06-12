@@ -15,7 +15,7 @@ git clone https://github.com/IDBRAHIMDEV/angular-2.git
 ```
 npm install
 ```
-3: Start server (includes auto refreshing) and gulp watcher
+3: Lancez le serveur 
 ```
 npm start
 ```
