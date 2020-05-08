@@ -1,4 +1,4 @@
-# Angular 2 Beta Boilerplate
+# Angular 2 Beta Boilerplates
 
 ## Description
 Cet repository d'Angular 2 est une copy simplifiée, avec laquelle vous pouvez commencer le développement avec angularJS 2 immédiatement.
